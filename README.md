@@ -1,2 +1,2 @@
-# desgin-pattern-with-go
+# design-pattern-with-go
 设计模式

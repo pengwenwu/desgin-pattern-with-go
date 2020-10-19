@@ -1,3 +1,3 @@
-module desgin-pattern-with-go
+module design-pattern-with-go
 
 go 1.13
